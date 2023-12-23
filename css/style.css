@@ -1,0 +1,18 @@
+*{
+    text-decoration: none;
+    color:#ffffff;
+    background-color: black;
+}
+h1 {
+  text-align: center;  
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+a {
+    padding: 5px;
+    color: rgb(171, 213, 250);
+}
